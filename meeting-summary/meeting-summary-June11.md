@@ -20,3 +20,22 @@
 > Argamon told about using the artilce words to identify them whether a same crime or not.
 
 6. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1000. **important** first clean the 911 data and make a single csv file.
