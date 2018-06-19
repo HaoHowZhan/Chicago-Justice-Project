@@ -36,6 +36,7 @@
 
 
 
-
+999. Deduplicate the article by the words they are quoting and other informations.
+> Try to find more papers about it, and try to solve it.
 
 1000. **important** first clean the 911 data and make a single csv file.
